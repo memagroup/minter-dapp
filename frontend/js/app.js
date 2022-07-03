@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'NFT LAND LORD COLLECTION';
+const COLLECTION_NAME = 'NFTCollectionContract';
 let editions = [];
 let dots = 1;
 
