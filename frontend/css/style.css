@@ -316,6 +316,7 @@ section {
 
 /* SLIDDER */
 
+/*
 .splide {
   position: absolute;
   top: 90px;
@@ -325,12 +326,13 @@ section {
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 5px 100px;
+  border-width: 5px 10px;
 }
 
 .splide__slide img {
   width: 100%;
 }
+*/
 
 /* SPINNER */
 .dot-spin {
