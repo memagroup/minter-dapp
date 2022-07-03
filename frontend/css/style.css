@@ -316,14 +316,14 @@ section {
 
 /* SLIDDER */
 
-/*
+
 .splide {
   position: absolute;
   top: 90px;
   left: 5rem;
   z-index: -1;
 }
-
+/*
 .splide__slide {
   border: var(--accent-color) solid;
   border-width: 5px 10px;
