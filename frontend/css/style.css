@@ -66,7 +66,8 @@ header .container {
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
-  height: 100%;
+  height: 20%;
+
   text-align: center;
   margin: 0 auto 0 35vw;
   opacity: 0;
@@ -87,7 +88,7 @@ header .container {
 }
 
 .not-connected p {
-  font-size: 10.1rem;
+  font-size: 1.1rem;
   font-family: var(--font-secondary);
   line-height: 1.8;
 }
