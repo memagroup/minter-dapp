@@ -344,7 +344,7 @@ section {
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 1768px) {
+@media screen and (max-width: 768px) {
   .menu {
     gap: 1rem;
   }
