@@ -319,7 +319,7 @@ section {
 
 .splide {
   position: absolute;
-  top: 900px;
+  top: 90px;
   left: 5rem;
   z-index: -1;
 }
@@ -344,7 +344,7 @@ section {
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1768px) {
   .menu {
     gap: 1rem;
   }
